@@ -2,9 +2,6 @@ import numpy as np
 import time
 
 
-def pretty_print_grid(grid):
-    return ""
-
 def d3_1_numpy(data):
     data = data.split("\n")
     mat = np.zeros((2500, 2500))
