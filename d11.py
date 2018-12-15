@@ -1,5 +1,3 @@
-# 21, 93 is incorrect
-
 import numpy as np
 
 
